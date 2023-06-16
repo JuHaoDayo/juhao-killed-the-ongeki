@@ -1,6 +1,7 @@
 site_name: 9-1 Speed
 nav:
 - {"主页": "index.md"}
+- {"MuseDash全插画教程": "MuseDash全插画教程.md"}
 theme:
   name: material
 extra:
